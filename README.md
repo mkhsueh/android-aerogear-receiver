@@ -5,3 +5,7 @@ Sample Android application that receives notifications sent by the Aerogear Unif
 
 - Tested with Aerogear Unified Push Server 0.10.4 deployed on OpenShift Online.
 - Fill in your Aerogear application ID's, project code, and alias to test the application
+
+#### Installation
+
+- TODO
